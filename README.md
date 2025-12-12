@@ -27,7 +27,7 @@ The Input Table needs Company Numbers to be entered to generate the api URLs.
   - `CompanyOfficers.m` – Generates a list of officers for all companies on the Input Table
   - `CompanyPSCs.m` – Generates a list of PSCs for all companies on the Input Table
 
-- `ExampleInput.xlsx` – Example input table (Sorry DW)f
+- `ExampleInput.xlsx` – Example input table (Sorry DW)
 
 ---
 
